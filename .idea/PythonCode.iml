@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="Test" />
     <orderEntry type="module" module-name="TestM1" />
     <orderEntry type="module" module-name="Bthpy" />
+    <orderEntry type="module" module-name="dischargepy" />
+    <orderEntry type="module" module-name="project_Dam" />
   </component>
 </module>

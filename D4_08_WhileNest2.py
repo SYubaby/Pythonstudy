@@ -10,6 +10,7 @@ j = 0
 while j < 5:
     # 一行星星开始
     i = 0
+    # print(i)
     while i < 5:
         print('*', end='') #取消\n
         i += 1

@@ -1,8 +1,5 @@
 """
-1. Input
-2. Save input
-3. if
-Note datetype int转换
+#要加int 从字符串改成int
 """
 
 age = int(input('请输入您的年龄：'))

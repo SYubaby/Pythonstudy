@@ -16,7 +16,7 @@ player = int(input('请出拳：0 -- 石头；1 -- 剪刀；2 -- 布：'))
 # 电脑 固定
 # computer = 1 加入random.randint
 computer = random.randint(0, 2)
-# print(computer)
+print(computer)
 
 # 2. 判断输赢
 if ((player == 0) and (computer == 1)) or ((player == 1) and (computer == 2)) or ((player == 2) and (computer == 0)):

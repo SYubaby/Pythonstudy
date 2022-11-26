@@ -10,7 +10,7 @@ i = 1
 while i <= 5:
     #条件: 4 或 > 3
     if i == 3:
-        print('有个虫子')
+        print(f'吃了第{i}个苹果有个虫子')
         #使用continue, 修改计数器
         i = i + 1
         continue
