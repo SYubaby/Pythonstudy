@@ -1,8 +1,9 @@
 """
 语法:
 条件成立执行的表达式 if 条件 else 条件不成立执行的表达式
+化简if else 用
 """
-a = 1
+a = 3
 b = 2
 
 c = a if a > b else b
