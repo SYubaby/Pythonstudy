@@ -13,9 +13,10 @@ else:
 i = 1
 while i <= 5:
     if i == 3:
+        print('不真诚')
         i += 1 # 计数器变化
         continue
     print('媳妇儿我错了')
     i += 1
 else:
-    print('原谅你了') # continue执行了, else 下方执行
+    print('媳妇儿原谅我了，真不错') # continue执行了, else 下方执行
